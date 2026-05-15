@@ -1,15 +1,15 @@
-# 🩺 AAROGYA-AI
+# 🩺 MediAI
 ### AI-Powered Medical Assistant (React + Gemini API)
 
 ---
 
 ## 🔗 Repository Link
-👉 https://github.com/PranshuGupta28/AarogyaAi  
+👉 https://github.com/PranshuGupta28/MediAI
 
 ---
 
 ## 📌 Project Overview
-Aarogya-AI is an AI-based medical chatbot that provides **professional healthcare responses** using the Gemini API.
+MediAI is an AI-based medical chatbot that provides **professional healthcare responses** using the Gemini API.
 
 The system is designed with strict prompt engineering to ensure:
 - ✅ Only medical-related queries are answered  
@@ -67,7 +67,7 @@ AAROGYA-AI/
 │   │   │   ├── Sidebar.css
 │   │
 │   ├── config/
-│   │   └── AarogyaAi.js
+│   │   └── MediAI.js
 │   │
 │   ├── conf/
 │   │   └── conf.js
@@ -94,9 +94,9 @@ AAROGYA-AI/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/PranshuGupta28/AarogyaA.git
+git clone https://github.com/PranshuGupta28/MediAI.git
 ```bash
-cd Aarogya-Ai
+cd MediAI
 ```
 
 2️⃣ Install Dependencies
