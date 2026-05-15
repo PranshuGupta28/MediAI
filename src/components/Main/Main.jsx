@@ -16,6 +16,7 @@ const Main = () => {
     } = useContext(Context);
 
     // ✅ Clean Dark Mode Toggle
+    
     const onChangeBtn = () => {
         document.body.classList.toggle("dark");
     };
@@ -25,7 +26,7 @@ const Main = () => {
 
             {/* ================= NAVBAR ================= */}
             <div className="nav">
-                <p>Aarogya - Ai</p>
+                <p>MediAI</p>
 
                 <div className="top-right">
                     <img
@@ -46,7 +47,7 @@ const Main = () => {
                 {!showResult ? (
                     <>
                         <div className="greet">
-                            <p><span>Welcome to Aarogya AI</span></p>
+                            <p><span>Welcome to Medi AI</span></p>
                             <p>How are you feeling today?</p>
                         </div>
 
